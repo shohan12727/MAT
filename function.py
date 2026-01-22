@@ -22,6 +22,6 @@ plt.xlabel("x")
 plt.ylabel("y")
 plt.title("Graph of y = 1 - √(2x - 3)")
 plt.legend()
-# plt.grid(True)
+plt.grid(True)
 
 plt.show()
