@@ -1,0 +1,4 @@
+ manim -pqh fourier.py FourierEpicycles
+
+
+ 

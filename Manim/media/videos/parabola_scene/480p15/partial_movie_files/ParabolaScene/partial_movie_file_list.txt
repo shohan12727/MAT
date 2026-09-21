@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/2118183852_2466687440_223132457.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_847192958_2290566457.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_2162645733_2035395463.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_3880968470_142515388.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_4271397690_621513588.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_3880968470_1793954581.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_3755518268_154078854.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_52297388_4005150792.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_3880968470_2577461985.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_3397470096_3697951146.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_957240193_1806933358.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/parabola_scene/480p15/partial_movie_files/ParabolaScene/366519484_2645707024_759866785.mp4'

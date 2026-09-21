@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/fourier/1080p60/partial_movie_files/FourierEpicycles/3373382780_581476309_223132457.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/fourier/1080p60/partial_movie_files/FourierEpicycles/4234509111_847192958_344997380.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/fourier/1080p60/partial_movie_files/FourierEpicycles/4234509111_3897714197_2460247293.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/fourier/1080p60/partial_movie_files/FourierEpicycles/4234509111_3509461031_2388389265.mp4'
+file 'file:E:/Learning-Assets/MAT/Manim/media/videos/fourier/1080p60/partial_movie_files/FourierEpicycles/4234509111_2645707024_239054524.mp4'
